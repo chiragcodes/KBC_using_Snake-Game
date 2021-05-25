@@ -1,4 +1,4 @@
 # KBC_using_Snake-Game
-This is a KBC game developed in java.
+This is a KBC game developed in Java Swing.
 It will use a snake to tell the answer.
 Compile and run it just like a java program.
